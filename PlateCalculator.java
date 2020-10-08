@@ -40,9 +40,5 @@ public class PlateMath{
  JOptionPane.showMessageDialog(null, "You need " + message45 + message25 + message10 + message5 + message2pt5 + "per side of a 45lb bar to make "+ totalWeight + "lbs");
  System.exit(0);
  
- 
- 
- 
- 
     }
 }
